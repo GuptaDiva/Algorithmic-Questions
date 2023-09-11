@@ -1,0 +1,290 @@
+[33mcommit 07856d7b7102b7a2a138a85b4ea88d254901f49a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ag-Utkarsh <utkarshagarwal9641@gmail.com>
+Date:   Sun Sep 10 20:59:43 2023 +0530
+
+    feat: Basic-Program 1
+    
+    write a program to check whether a string is palindrome or not
+
+[33mcommit 8130432de15a7a0f7eb958007ab3adbdcb1cf237[m[33m ([m[1;31morigin/patch[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GuptaDiva <91871618+GuptaDiva@users.noreply.github.com>
+Date:   Tue Oct 26 17:53:50 2021 +0530
+
+    Create LargestNum.py
+
+[33mcommit 06667e1b24acea0b403e175742cc8e05e0e28aa2[m
+Author: GuptaDiva <91871618+GuptaDiva@users.noreply.github.com>
+Date:   Tue Oct 26 12:12:07 2021 +0530
+
+    Create Pattern.py
+
+[33mcommit a192196fb502ede96f8f605607b5b3d3d660725a[m
+Merge: 04162e8 e57fd2b
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sun Oct 17 17:29:02 2021 +0530
+
+    Merge pull request #17 from vipul-kumar-singh/vipul-basic-solutions
+    
+    Added Solution to basic questions
+
+[33mcommit 04162e88af26d07fc442f5f1e0bfe7e23d34ae7c[m
+Merge: 3d25b76 c518601
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sun Oct 17 17:22:33 2021 +0530
+
+    Merge pull request #12 from Amanksh/main
+    
+    aman_ksh
+
+[33mcommit e57fd2b48a6182b7347895f16206832183f846a8[m
+Author: Vipul Kumar Singh <vipul24.9669@gmail.com>
+Date:   Sun Oct 17 16:10:30 2021 +0530
+
+    Added Solution to basic questions
+
+[33mcommit 3d25b761c0c8c49b171c861012cd67046c804f91[m
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sun Oct 17 13:24:57 2021 +0530
+
+    typo fix
+
+[33mcommit 64d3ddebf0f6e2d88e134ad68ae48d8d5c5e0378[m
+Merge: 6546d04 a87ef57
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sun Oct 17 13:23:56 2021 +0530
+
+    Merge pull request #13 from getRicha/main
+    
+    4 ques done
+
+[33mcommit a87ef5770958fa017a53220b4c50b6e98ebda475[m
+Merge: 5bbebb3 45e2f45
+Author: getRicha <richasri2002@gmail.com>
+Date:   Sun Oct 17 00:21:50 2021 +0530
+
+    Merge branch 'main' of https://github.com/getRicha/Algorithmic-Questions
+
+[33mcommit 5bbebb3d4100b661e91a4a9e2078d55f807eade4[m
+Author: getRicha <richasri2002@gmail.com>
+Date:   Sun Oct 17 00:19:32 2021 +0530
+
+    Rename file
+
+[33mcommit 45e2f4543ee9525069ba02610158f926ef2504e6[m
+Author: Richa Srivastava <74401402+getRicha@users.noreply.github.com>
+Date:   Sun Oct 17 00:07:07 2021 +0530
+
+    Rename Maxnum to Maxnum.cpp
+
+[33mcommit da428dcd83a6b287e43a4a404ffc986b478fe203[m
+Author: Richa Srivastava <74401402+getRicha@users.noreply.github.com>
+Date:   Sun Oct 17 00:06:46 2021 +0530
+
+    Rename addtarget to addtarget.cpp
+
+[33mcommit b89ee8f97789fd00c54647983f826228ddcd9a43[m
+Author: Richa Srivastava <74401402+getRicha@users.noreply.github.com>
+Date:   Sun Oct 17 00:06:17 2021 +0530
+
+    Rename duplicate to duplicate.java
+
+[33mcommit 766165a97310121f54b1c495deeb790e3034f581[m
+Author: getRicha <richasri2002@gmail.com>
+Date:   Sat Oct 16 23:10:38 2021 +0530
+
+    4 ques done
+
+[33mcommit 6546d0429bb43bee8888d951bf5768432dab054b[m
+Merge: 9458ad4 250db3b
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 22:18:18 2021 +0530
+
+    Merge pull request #11 from getRicha/main
+    
+    Basic Q3 done
+
+[33mcommit 9458ad463eb76e791a1c344f33fde87c3ab29455[m
+Merge: 4fba8fc f4dde28
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 22:15:13 2021 +0530
+
+    Merge pull request #10 from TheGuyCheese/main
+    
+    Palindrome program by Aditya
+
+[33mcommit 4fba8fce4e6d231bdbd470a620b0e8413f58767e[m
+Merge: 4e5287e 4f54990
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 22:14:11 2021 +0530
+
+    Merge pull request #9 from syed-ali-jibran-rizvi/main
+    
+    QUE 3 PATTERN in JAVA
+
+[33mcommit f4dde28ec77e2ca97770e2c94a053552157515f3[m
+Author: TheGuyCheese <guy.t69420@gmail.com>
+Date:   Sat Oct 16 20:05:13 2021 +0530
+
+    All the programs by Aditya
+
+[33mcommit c518601338e75b223668a3160ec76e2fcc88c094[m
+Author: aman_ksh <aman_Ksh>
+Date:   Sat Oct 16 17:42:32 2021 +0530
+
+    Intermediate-Q3
+
+[33mcommit 4f5499008b79358433bddbc27e0b0436d1948c7e[m
+Author: Syed Ali Jibran Rizvi <syedalijibranrizvi@gmail.com>
+Date:   Sat Oct 16 17:08:11 2021 +0530
+
+    PALINDROMESTRING-JAVA
+
+[33mcommit 6edb8e590f42b7db5d4498dbfcff9c94a1cbcedb[m
+Author: aman_ksh <aman_Ksh>
+Date:   Sat Oct 16 16:54:58 2021 +0530
+
+    firt-commit
+
+[33mcommit 250db3b086bfb94f10e6ded06d592f39a57bf4c5[m
+Author: getRicha <richasri2002@gmail.com>
+Date:   Sat Oct 16 16:31:16 2021 +0530
+
+    Q3 print pattern
+
+[33mcommit 21f2e7c4574ee331c3e1a0ee51f26f6fed4a51c5[m
+Author: TheGuyCheese <guy.t69420@gmail.com>
+Date:   Sat Oct 16 16:28:35 2021 +0530
+
+    Palindrome program by Aditya
+
+[33mcommit 449dcfeb87ee59834f90e513caa2d57cae11bf6c[m
+Author: Syed Ali Jibran Rizvi <syedalijibranrizvi@gmail.com>
+Date:   Sat Oct 16 16:28:14 2021 +0530
+
+    Q3_Pattern in JAVA
+
+[33mcommit 42585cc4a2bb2bbdda5b68968b89a48dd5682ab8[m
+Author: Syed Ali Jibran Rizvi <syedalijibranrizvi@gmail.com>
+Date:   Sat Oct 16 16:17:18 2021 +0530
+
+    QUE 3 PATTERN in JAVA
+
+[33mcommit 6fa48c2d37939e6f54743d3ae6d762052eba816b[m
+Author: getRicha <richasri2002@gmail.com>
+Date:   Sat Oct 16 16:16:08 2021 +0530
+
+    Q3 print pattern
+
+[33mcommit 4e5287e108972abe59e07b85e700b2548531b914[m
+Merge: 5e76e82 9c97596
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 16:07:21 2021 +0530
+
+    Merge pull request #8 from syed-ali-jibran-rizvi/main
+    
+    PROGRAM TO FIND THE MAXIMUM OF ARRAY IN JAVA by ALI JIBRAN
+
+[33mcommit 9c97596ba6488538200d97387358de7d8220898b[m
+Author: Syed Ali Jibran Rizvi <syedalijibranrizvi@gmail.com>
+Date:   Sat Oct 16 16:02:14 2021 +0530
+
+    PROGRAM TO FIND THE MAXIMUM OF ARRAY IN JAVA
+
+[33mcommit 5e76e821ca57eceeeb533f50d45bb253bc384ba0[m
+Merge: a4c444f 1a24de9
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 15:15:39 2021 +0530
+
+    Merge pull request #5 from RushanKhan1/main
+    
+    add intermediate questions 3 and 4
+
+[33mcommit 1a24de98a4f35fd629c4a8ea70d794f8904d0c48[m
+Author: RushanKhan1 <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 15:05:58 2021 +0530
+
+    add intermediate questions 3 and 4
+
+[33mcommit a4c444f319f8ac24c0ed43a5c2755f478ff04780[m
+Merge: dabf593 6f0845c
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 13:34:03 2021 +0530
+
+    Merge pull request #4 from Enigmage/main
+    
+    added 3 questions
+
+[33mcommit 6f0845ce182c4230121b3c17767d1a5e84f95416[m
+Author: Enigmage <alizaidi0786.az@gmail.com>
+Date:   Sat Oct 16 12:48:16 2021 +0530
+
+    one more
+
+[33mcommit 7db03477b894805a2d5acd2da8a4033f589ea8f4[m
+Author: Enigmage <alizaidi0786.az@gmail.com>
+Date:   Sat Oct 16 12:40:29 2021 +0530
+
+    constraint
+
+[33mcommit e432bb786f50d80c959f8806c9daaaeff438b410[m
+Author: Enigmage <alizaidi0786.az@gmail.com>
+Date:   Sat Oct 16 12:34:09 2021 +0530
+
+    typo
+
+[33mcommit db1e523235ca73e7ec407aaf3bd12d507b5cfe3d[m
+Author: Enigmage <alizaidi0786.az@gmail.com>
+Date:   Sat Oct 16 12:32:30 2021 +0530
+
+    3 questions
+
+[33mcommit dabf593e454988742f5186b62a8ecdd449fc027b[m
+Merge: e751afe 31ebcec
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:53:41 2021 +0530
+
+    Merge pull request #3 from RushanKhan1/main
+    
+    add basic question number 2
+
+[33mcommit 31ebcec211f7e8322911e9b047fd909710641a96[m
+Author: RushanKhan1 <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:51:28 2021 +0530
+
+    add basic question number 2
+
+[33mcommit e751afe4df05bac796bbc794391cfbeaaeaa3958[m
+Merge: b6fb135 a785c9e
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:50:17 2021 +0530
+
+    Merge pull request #2 from RushanKhan1/main
+    
+    add one basic question
+
+[33mcommit a785c9e92f8ff9aaa0aae3d5b6cee0ad406eb27b[m
+Author: RushanKhan1 <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:48:08 2021 +0530
+
+    add one basic question
+
+[33mcommit b6fb135b4734951f0ab21f18b946e6b8922897db[m
+Merge: 3b76810 665b61a
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:44:21 2021 +0530
+
+    Merge pull request #1 from RushanKhan1/main
+    
+    add basic instructions
+
+[33mcommit 665b61a3c3baa0e16219204cb609a36650f6f73c[m
+Author: RushanKhan1 <rushan.khan2000@gmail.com>
+Date:   Sat Oct 16 01:42:24 2021 +0530
+
+    add instructions
+
+[33mcommit 3b768109fe78598e1e5bd9d263017b0a978d428c[m
+Author: Rushan Khan <rushan.khan2000@gmail.com>
+Date:   Fri Oct 15 17:03:18 2021 +0530
+
+    Initial commit
